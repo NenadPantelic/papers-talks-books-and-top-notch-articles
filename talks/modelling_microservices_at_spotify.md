@@ -21,6 +21,7 @@
   - client squads and infra squads build tools for feature squads
   - https://engineering.atspotify.com/2014/03/spotify-engineering-culture-part-1/
   - every team has the ownership, independence and responsibility over its feature
+  - two code reviews per PR, in 2015 more than 800 services written in Java
     - bad thing - every squad has the same organizational problems to solve - solving it multiply times
 - in early days they had ServiceDB which stored data about their services
 - 2015. System-Z -> systems metadata system (they gave a dummy name just to start with which stayed there (forever)...)

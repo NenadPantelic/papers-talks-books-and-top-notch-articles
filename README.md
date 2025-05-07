@@ -14,7 +14,14 @@ notes: [here](/talks/demystifying_spring_internals.md)
 
 Modelling Microservices at Spotify <br>
 https://www.youtube.com/watch?v=7XDA044tl8k&ab_channel=Jfokus <br>
-notes: [here](/talks/modelling_microservices_at_spotify.md)
+notes: [here](/talks/modelling_microservices_at_spotify.md)<br>
+
+Microservices at Spotify • Kevin Goldsmith • GOTO 2015 <br>
+https://www.youtube.com/watch?v=7LGPeBgNFuU&ab_channel=GOTOConferences <br>
+
+Spotify's Architecture at the 2023 Global Software Architecture Summit <br>
+https://www.youtube.com/watch?v=lcHEhhM-3sk <br>
+notes: [here](/talks/spotify_architecture.md) <br>
 
 ## Articles
 
