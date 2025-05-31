@@ -23,6 +23,10 @@ Spotify's Architecture at the 2023 Global Software Architecture Summit <br>
 https://www.youtube.com/watch?v=lcHEhhM-3sk <br>
 notes: [here](/talks/spotify_architecture.md) <br>
 
+Shopify’s Architecture to Handle the World’s Biggest Flash Sales / Bart de Water<br>
+https://www.youtube.com/watch?v=MV5Kdwzwcag <br>
+notes: [here](/talks/shopifys_architecture_to_handle_the_worlds_biggest_flash_sales.md) <br>
+
 ## Articles
 
 A Deep Dive in How Slow SELECT \* is <br>
