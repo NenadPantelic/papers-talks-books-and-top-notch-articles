@@ -27,6 +27,10 @@ Shopify’s Architecture to Handle the World’s Biggest Flash Sales / Bart de W
 https://www.youtube.com/watch?v=MV5Kdwzwcag <br>
 notes: [here](/talks/shopifys_architecture_to_handle_the_worlds_biggest_flash_sales.md) <br>
 
+How Shopify’s engineering improved database writes by 50% with ULID
+https://www.youtube.com/watch?v=f53-Iw_5ucA&ab_channel=HusseinNasser <br>
+notes: [here](/talks/how_shopifys_engineering_improved_database_writes_by_50p_with_ulid.md) <br>
+
 ## Articles
 
 A Deep Dive in How Slow SELECT \* is <br>
