@@ -31,6 +31,10 @@ How Shopify’s engineering improved database writes by 50% with ULID
 https://www.youtube.com/watch?v=f53-Iw_5ucA&ab_channel=HusseinNasser <br>
 notes: [here](/talks/how_shopifys_engineering_improved_database_writes_by_50p_with_ulid.md) <br>
 
+How Netflix Uses Java - 2025 Edition
+https://www.youtube.com/watch?v=XpunFFS-n8I <br>
+notes: [here](/talks/how_netflix_really_uses_java_2025.md) <br>
+
 ## Articles
 
 A Deep Dive in How Slow SELECT \* is <br>
