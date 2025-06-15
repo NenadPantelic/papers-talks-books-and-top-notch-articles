@@ -35,6 +35,10 @@ How Netflix Uses Java - 2025 Edition
 https://www.youtube.com/watch?v=XpunFFS-n8I <br>
 notes: [here](/talks/how_netflix_really_uses_java_2025.md) <br>
 
+Scaling Push Messaging for Millions of Devices @Netflix
+https://youtube.com/watch?v=6w6E_B55p0E<br>
+notes: [here](/talks/scaling_push_messaging_for_millions_of_devices_at_netflix.md) <br>
+
 ## Articles
 
 A Deep Dive in How Slow SELECT \* is <br>
