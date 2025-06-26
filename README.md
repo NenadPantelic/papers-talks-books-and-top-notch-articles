@@ -27,17 +27,21 @@ Shopify’s Architecture to Handle the World’s Biggest Flash Sales / Bart de W
 https://www.youtube.com/watch?v=MV5Kdwzwcag <br>
 notes: [here](/talks/shopifys_architecture_to_handle_the_worlds_biggest_flash_sales.md) <br>
 
-How Shopify’s engineering improved database writes by 50% with ULID
+How Shopify’s engineering improved database writes by 50% with ULID <br>
 https://www.youtube.com/watch?v=f53-Iw_5ucA&ab_channel=HusseinNasser <br>
 notes: [here](/talks/how_shopifys_engineering_improved_database_writes_by_50p_with_ulid.md) <br>
 
-How Netflix Uses Java - 2025 Edition
+How Netflix Uses Java - 2025 Edition<br>
 https://www.youtube.com/watch?v=XpunFFS-n8I <br>
 notes: [here](/talks/how_netflix_really_uses_java_2025.md) <br>
 
-Scaling Push Messaging for Millions of Devices @Netflix
+Scaling Push Messaging for Millions of Devices @Netflix<br>
 https://youtube.com/watch?v=6w6E_B55p0E<br>
 notes: [here](/talks/scaling_push_messaging_for_millions_of_devices_at_netflix.md) <br>
+
+Microservices at Netflix Scale • Ruslan Meshenberg • GOTO 2016 <br>
+https://www.youtube.com/watch?v=57UK46qfBLY <br>
+notes: [here](/talks/microservices_at_netflix_scale.md) <br>
 
 ## Articles
 
