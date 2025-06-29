@@ -43,6 +43,10 @@ Microservices at Netflix Scale • Ruslan Meshenberg • GOTO 2016 <br>
 https://www.youtube.com/watch?v=57UK46qfBLY <br>
 notes: [here](/talks/microservices_at_netflix_scale.md) <br>
 
+Caching at Netflix - The Hidden Microservice <br>
+https://www.youtube.com/watch?v=Rzdxgx3RC0Q<br>
+notes: [here](/talks/caching_at_netflix__the_hidden_micros.md)
+
 ## Articles
 
 A Deep Dive in How Slow SELECT \* is <br>
