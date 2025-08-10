@@ -47,6 +47,10 @@ Caching at Netflix - The Hidden Microservice <br>
 https://www.youtube.com/watch?v=Rzdxgx3RC0Q<br>
 notes: [here](/talks/caching_at_netflix__the_hidden_micros.md)
 
+Anatomy of a Request: Beyond Backend Processing <br>
+https://www.youtube.com/watch?v=s0r3Aky9I5g <br>
+notes: [here](talks/anatomy_of_a_request_beyond_backend_processing.md) <br>
+
 ## Articles
 
 A Deep Dive in How Slow SELECT \* is <br>
