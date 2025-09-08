@@ -51,6 +51,10 @@ Anatomy of a Request: Beyond Backend Processing <br>
 https://www.youtube.com/watch?v=s0r3Aky9I5g <br>
 notes: [here](talks/anatomy_of_a_request_beyond_backend_processing.md) <br>
 
+The Evolution of Reddit's Architecture <br>
+https://www.youtube.com/watch?v=nUcO7n4hek4 <br>
+notes: [here](talks/the_evolution_of_reddits_architecture.md) <br>
+
 ## Articles
 
 A Deep Dive in How Slow SELECT \* is <br>
