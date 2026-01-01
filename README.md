@@ -55,6 +55,10 @@ The Evolution of Reddit's Architecture <br>
 https://www.youtube.com/watch?v=nUcO7n4hek4 <br>
 notes: [here](talks/the_evolution_of_reddits_architecture.md) <br>
 
+Scaling Slack - The Good, the Unexpected, and the Road Ahead
+https://www.youtube.com/watch?v=_M-oHxknfnI <br>
+notes: [here](talks/scaling_slack_the_good_the_unexpected_n_the_road_ahead.md) <br>
+
 ## Articles
 
 A Deep Dive in How Slow SELECT \* is <br>
