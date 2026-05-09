@@ -59,6 +59,10 @@ Scaling Slack - The Good, the Unexpected, and the Road Ahead
 https://www.youtube.com/watch?v=_M-oHxknfnI <br>
 notes: [here](talks/scaling_slack_the_good_the_unexpected_n_the_road_ahead.md) <br>
 
+Messaging at Scale at Instagram
+https://www.youtube.com/watch?v=E708csv4XgY <br>
+notes: [here](talks/messaging_at_scale_at_instagram.md)
+
 ## Articles
 
 A Deep Dive in How Slow SELECT \* is <br>
